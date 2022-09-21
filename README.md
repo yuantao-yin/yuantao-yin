@@ -1,21 +1,12 @@
-### Welcome 👋
+### Hi there 👋
+- 🔭 I’m currently working on document management system
+- 🌱 I’m currently learning AWS SAP
+- 🎾 I love tennis.
+- 🛩️ I'm a private pilot.
+- 📫 You can reach me at: <a href="https://www.linkedin.com/in/yuantao-yin-b5380819/" target="blank">linkedin</a>
 
-<!--
-**yuantao-yin/yuantao-yin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## ⚡ Technologies
+## ⚡ What I'm using
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
