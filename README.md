@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on document management system
-- 🌱 I’m currently learning AWS SAP
-- 🎾 I love tennis.
+- 🌱 I’m recently get certified AWS Professional Solutions Architect and certified kubernetes application developer
+- 🎾 I love and coach tennis.
 - 🛩️ I'm a private pilot.
 - 📫 You can reach me at: <a href="https://www.linkedin.com/in/yuantao-yin-b5380819/" target="blank">linkedin</a>
 
